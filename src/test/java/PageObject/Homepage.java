@@ -96,6 +96,10 @@ public class Homepage {
 	    {
 		 return txtAddvertical.getText();
 	    }
+	 public void txtAddvertical1()
+	    {
+		 txtAddvertical.click();
+	    }
 	 public String txtsignout()
 	    {
 		 return txtsignout.getText();
