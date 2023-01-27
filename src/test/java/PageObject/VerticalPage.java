@@ -30,7 +30,7 @@ public class VerticalPage {
 	@FindBy(xpath="//*[@id=\"vertical__range\"]/div/div[1]/div[2]")
 	WebElement txttimerange;
 	
-	@FindBy(xpath="//*[@id=\"react-select-6-input\"]")
+	@FindBy(xpath="//*[@id=\"vertical__range\"]/div/div[1]/div[2]")
 	WebElement dropdownTimeRange;
 	
 	
@@ -60,6 +60,9 @@ public class VerticalPage {
 	
 	@FindBy(xpath="//*[@id=\"feature__prediction\"]")
 	WebElement txtprediction;
+	
+	@FindBy(xpath="//*[@id=\"chakra-modal-:rl:\"]/footer/div/button[1]")
+	WebElement Save;
 	
 	public void setVerticalname(String uname)
 	{
@@ -107,19 +110,13 @@ public class VerticalPage {
 	}
 	public void dropdowntimerange()
 	{
-		Select se= new Select(dropdownTimeRange);
-		List<WebElement> sel= se.getOptions();
-		System.out.println(sel.size());
-		for(int i=0;i<sel.size();i++)
-		{
-			String txt=sel.get(i).getText();
-			System.out.println(txt);
-			sel.get(i).click();
-		}
+		txttimerange.click();
+		
 	}
 	
 	public void dropdownValuerange()
 	{
+		txttimerange.click();
 		Select se= new Select(dropdownValueRange);
 		List<WebElement> sel= se.getOptions();
 		System.out.println(sel.size());
@@ -201,5 +198,9 @@ public class VerticalPage {
 			System.out.println(txt);
 			sel.get(i).click();
 		}
+	}
+	public void SaveButton()
+	{
+		Save.click();
 	}
 }

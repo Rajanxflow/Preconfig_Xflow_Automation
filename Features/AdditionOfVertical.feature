@@ -14,3 +14,4 @@ When click on Context Range Then select the desire value from the list
 When click on Contributors Range Then select the desire value from the list
 When click on Recommended Action Range Then select the desire value from the list
 When click on Prediction Range Then select the desire value from the list
+Then click on save button

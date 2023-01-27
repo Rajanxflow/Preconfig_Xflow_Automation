@@ -208,5 +208,8 @@ public class Stepdef extends BaseClass {
 		Thread.sleep(20000);
 		verticalpage.dropdowntxtpredictionRange();
 	}
-
+	@Then("click on save button")
+	public void click_on_save_button() {
+	    verticalpage.SaveButton();
+	}
 }
