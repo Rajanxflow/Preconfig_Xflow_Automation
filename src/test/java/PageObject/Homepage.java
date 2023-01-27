@@ -52,55 +52,53 @@ public class Homepage {
 	
 	 public void clickMenubutton()
 	    {
-		 clickMenubutton.getText();
+		 clickMenubutton.click();
 	    }
 	
-	 public void txtVertical()
+	 public String txtVertical()
 	    {
-		 txtVertical.getText();
+		  return txtVertical.getText();
 	    }
-	 public void txtFunctions()
+	 public String txtFunctions()
 	    {
-		 txtFunctions.getText();
+		 return txtFunctions.getText();
 	    }
-	 public void txtNodeType()
+	 public String txtNodeType()
 	    {
-		 txtNodetype.getText();
+		 return txtNodetype.getText();
 	    }
-	 public void txtAttributes()
+	 public String txtAttributes()
 	    {
-		 txtAttributes.getText();
+		 return txtAttributes.getText();
 	    }
-	 public void txtMetrics()
+	 public String txtMetrics()
 	    {
-		 txtMetrics.getText();
+		 return txtMetrics.getText();
 	    }
-	 public void txtDictionary()
+	 public String txtDictionary()
 	    {
-		 txtDictionary.getText();
+		 return txtDictionary.getText();
 	    }
-	 public void txtRoles()
+	 public String txtRoles()
 	    {
-		 txtRoles.getText();
+		 return txtRoles.getText();
 	    }
-	 public void txtOOfManagement()
+	 public String txtOOfManagement()
 	    {
-		 txtOOfManagement.getText();
+		 return txtOOfManagement.getText();
 	    }
-	 public void txtSearchButton()
+	 public String txtSearchButton()
 	    {
-		 txtSearchButton.getText();
-	    }
+		  return txtSearchButton.getText();
+		}
 	 
-	 public void txtAddvertical()
+	 public String txtAddvertical()
 	    {
-		 txtAddvertical.getText();
+		 return txtAddvertical.getText();
 	    }
-	 public void txtsignout()
+	 public String txtsignout()
 	    {
-		 txtsignout.getText();
+		 return txtsignout.getText();
+		 
 	    }
-	 
-
-	
-}
+	 }

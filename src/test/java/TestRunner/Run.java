@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features=".//Features/HomePageFeature.feature",
 		glue ="StepDefination",
-		dryRun= true,
+		dryRun= false,
 		monochrome= true,
 		plugin = {"pretty","html:target/cucumber-reports/reports1.html"}
 		)

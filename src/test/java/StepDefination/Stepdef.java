@@ -1,6 +1,8 @@
 package StepDefination;
 
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import PageObject.Homepage;
@@ -51,23 +53,87 @@ public class Stepdef {
 	public void check_menu_button_then_functions_and_node_type_and_attributes() throws InterruptedException {
 	    homepage.clickMenubutton();
 	    Thread.sleep(20000);
-	    homepage.txtFunctions();
-	    homepage.txtNodeType();
-	    homepage.txtAttributes();;
+	    String fun= homepage.txtFunctions();
+	    if(fun.equals("Functions"))
+	    {
+	    	Assert.assertTrue(true);
+	    }
+	    else
+	    {
+	    	Assert.assertTrue(false);
+	    }
+	    String nodetype= homepage.txtNodeType();
+	    if(nodetype.equals("Node Type"))
+	    {
+	    	Assert.assertTrue(true);
+	    }
+	    else
+	    {
+	    	Assert.assertTrue(false);
+	    }
+	    String Attr = homepage.txtAttributes();
+	    if(Attr.equals("Attributes"))
+	    {
+	    	Assert.assertTrue(true);
+	    }
+	    else
+	    {
+	    	Assert.assertTrue(false);
+	    }
     }
 
 	@When("Metrics And Dictionary And Roles And OOG Management And Search button AndAdd Vertical")
 	public void metrics_and_dictionary_and_roles_and_oog_management_and_search_button_and_add_vertical() {
-		homepage.txtMetrics();
-		homepage.txtDictionary();
-		homepage.txtRoles();
-		homepage.txtOOfManagement();
-		homepage.txtSearchButton();
-		homepage.txtAddvertical();
+		String matrix= homepage.txtMetrics();
+		 if(matrix.equals("Metrics"))
+		    {
+		    	Assert.assertTrue(true);
+		    }
+		    else
+		    {
+		    	Assert.assertTrue(false);
+		    }
+		String dic=homepage.txtDictionary();
+		if(dic.equals("Dictionary"))
+	    {
+	    	Assert.assertTrue(true);
+	    }
+	    else
+	    {
+	    	Assert.assertTrue(false);
+	    }
+		String Roles= homepage.txtRoles();
+		if(Roles.equals("Roles"))
+	    {
+	    	Assert.assertTrue(true);
+	    }
+	    else
+	    {
+	    	Assert.assertTrue(false);
+	    }
+		String oog=homepage.txtOOfManagement();
+		if(oog.equals("OOG Management"))
+	    {
+	    	Assert.assertTrue(true);
+	    }
+	    else
+	    {
+	    	Assert.assertTrue(false);
+	    }
+		Assert.assertEquals("", homepage.txtSearchButton());
+		String Addvertical= homepage.txtAddvertical();
+		if(Addvertical.equals("+ Add Vertical"))
+	    {
+	    	Assert.assertTrue(true);
+	    }
+	    else
+	    {
+	    	Assert.assertTrue(false);
+	    }
 	}
 
 	@When("sign out button")
 	public void sign_out_button() {
-		homepage.txtsignout();
+		Assert.assertEquals("", homepage.txtsignout());
 	}
 }
