@@ -1,8 +1,6 @@
 package StepDefination;
 
 import org.junit.Assert;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import PageObject.Homepage;
@@ -12,11 +10,8 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Stepdef {
+public class Stepdef extends BaseClass {
 	
-	public WebDriver driver;
-	public LoginPage loginpage;
-	public Homepage homepage;
 	@Given("user launch chrome browser")
 	public void user_launch_chrome_browser() {
 		 WebDriverManager.chromedriver().setup();
@@ -43,10 +38,10 @@ public class Stepdef {
 		driver.getTitle();
 	}
 
-	/*@Then("close the browser")
+	@Then("close the browser")
 	public void close_the_browser() {
 		driver.quit();
-	}*/
+	}
 	
 	///////////////////////////HOME Page Feature Validation//////////////////
 	@When("check menu button Then Functions AndNode type And Attributes")
