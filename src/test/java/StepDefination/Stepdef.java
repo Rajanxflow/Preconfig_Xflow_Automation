@@ -162,9 +162,11 @@ public class Stepdef extends BaseClass {
 
 	@When("click on time range Then select the time range as per desire from list")
 	public void click_on_time_range_then_select_the_time_range_as_per_desire_from_list() throws InterruptedException {
-	    verticalpage.txttimerange();
-	    Thread.sleep(20000);
-		verticalpage.dropdowntimerange();
+		Thread.sleep(30000);
+		verticalpage.SelectTimeRange();
+	    verticalpage.SelectInputTimeRange();
+	    Thread.sleep(10000);
+	    verticalpage.SelectTimeRange();
 	}
 
 	@When("click on Data range Then select the desire value from the list")
@@ -178,12 +180,12 @@ public class Stepdef extends BaseClass {
 	public void click_on_trend_range_then_select_the_desire_value_from_the_list() throws InterruptedException {
 		verticalpage.txttrendrange();
 		Thread.sleep(20000);
-		verticalpage.dropdowntimerange();
+		verticalpage.dropdowntexttrendRange();
 	}
 
 	@When("click on Context Range Then select the desire value from the list")
 	public void click_on_context_range_then_select_the_desire_value_from_the_list() throws InterruptedException {
-		verticalpage.txtcontextrange();;
+		verticalpage.txtcontextrange();
 		Thread.sleep(20000);
 		verticalpage.dropdowncontextRange1();  
 	}

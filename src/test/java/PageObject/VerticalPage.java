@@ -2,6 +2,8 @@ package PageObject;
 
 import java.util.List;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -27,13 +29,12 @@ public class VerticalPage {
 	@FindBy(id="vertical__description")
 	WebElement txtverticaldescription;
 	
-	@FindBy(xpath="//*[@id=\"vertical__range\"]/div/div[1]/div[2]")
-	WebElement txttimerange;
+	@FindBy(xpath="//*[@id=\"vertical__range\"]")
+	WebElement SelectTimeRange;
 	
-	@FindBy(xpath="//*[@id=\"vertical__range\"]/div/div[1]/div[2]")
-	WebElement dropdownTimeRange;
-	
-	
+	@FindBy(id="react-select-2-input")
+	WebElement SelectInputTimeRange;
+
 	@FindBy(xpath="//*[@id=\"feature__value\"]")
 	WebElement txtValueRange;
 	
@@ -76,10 +77,7 @@ public class VerticalPage {
 	{
 		txtverticaldescription.sendKeys(uname2);
 	}
-	public void txttimerange()
-	{
-		txttimerange.click();
-	}
+	
 	public void txtValueRange()
 	{
 		txtValueRange.click();
@@ -108,15 +106,19 @@ public class VerticalPage {
 	{
 		txtprediction.click();
 	}
-	public void dropdowntimerange()
+	public void SelectTimeRange()
 	{
-		txttimerange.click();
-		
+		SelectTimeRange.click();
 	}
+	
+	public void SelectInputTimeRange()
+	{
+		SelectInputTimeRange.sendKeys(Keys.ENTER);
+	}
+	
 	
 	public void dropdownValuerange()
 	{
-		txttimerange.click();
 		Select se= new Select(dropdownValueRange);
 		List<WebElement> sel= se.getOptions();
 		System.out.println(sel.size());
