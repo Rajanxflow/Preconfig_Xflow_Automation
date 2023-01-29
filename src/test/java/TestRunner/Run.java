@@ -6,10 +6,11 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features=".//Features/AdditionOfVertical.feature",
+		features=".//Features/",
 		glue ="StepDefination",
 		dryRun= false,
 		monochrome= true,
+		/*tags= "@sanity",*/
 		plugin = {"pretty","html:target/cucumber-reports/reports1.html"}
 		)
 
