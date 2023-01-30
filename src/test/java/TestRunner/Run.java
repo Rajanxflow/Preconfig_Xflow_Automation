@@ -14,8 +14,10 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 		dryRun= false,
 		monochrome= true,
 		/*tags= "@sanity",*/
-		plugin = {"pretty","html:target/cucumber-reports/reports1.html"}
+	//	plugin = {"pretty","html:target/cucumber-reports/reports1.html"}
+		plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 		)
+		
 
 public class Run extends AbstractTestNGCucumberTests {
 	/*class will be empty*/

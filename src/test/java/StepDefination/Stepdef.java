@@ -61,11 +61,11 @@ public class Stepdef extends BaseClass {
 		log.info("we got a page title");
 	}
 
-	@Then("close the browser")
+	/*@Then("close the browser")
 	public void close_the_browser() {
 		driver.quit();
 		log.info("quit browser");
-	}
+	}*/
 	
 	///////////////////////////HOME Page Feature Validation//////////////////
 	@When("check menu button Then Functions AndNode type And Attributes")
