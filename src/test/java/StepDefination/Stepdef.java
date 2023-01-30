@@ -2,10 +2,7 @@ package StepDefination;
 
 import java.util.Random;
 
-
-import org.apache.logging.log4j.LogManager;
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -18,6 +15,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.apache.log4j.PropertyConfigurator;
 
 
 public class Stepdef extends BaseClass {
@@ -25,8 +23,8 @@ public class Stepdef extends BaseClass {
 	@Before
 	public void setup()
 	{
-		log= LogManager.getLogger("Stepdef");
-		PropertyConfigurator.configure("log4j.properties");
+		 log = Logger.getLogger("preconfig");
+		PropertyConfigurator.configure("log4j2.properties");
 		WebDriverManager.chromedriver().setup();
 		 driver= new ChromeDriver();
 	}

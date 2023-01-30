@@ -1,7 +1,9 @@
 package StepDefination;
 
+
+
 import org.apache.commons.lang.RandomStringUtils;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
 import PageObject.Homepage;
@@ -16,7 +18,7 @@ public class BaseClass {
 	public Homepage homepage;
 	public VerticalPage verticalpage;
 	public static Logger log;
-
+	
 	// generate unique email id
 	public String generateEmailId()
 	 {
