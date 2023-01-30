@@ -1,3 +1,33 @@
+  INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:61] - we got a page title
+ INFO [Stepdef.java:176] - Clicked on add vertical button
+ INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:74] - clicked on menu button
+ INFO [Stepdef.java:85] - checked function button
+ INFO [Stepdef.java:95] - checked node type button
+ INFO [Stepdef.java:105] - checked attribute button
+ INFO [Stepdef.java:119] - Checked metrics button
+ INFO [Stepdef.java:129] - Checked dictionary button
+ INFO [Stepdef.java:139] - checked Roles button
+ INFO [Stepdef.java:149] - checked oog management button
+ INFO [Stepdef.java:151] - check search placeholder
+ INFO [Stepdef.java:161] - Checked add vertical button
+ INFO [Stepdef.java:167] - Checked sign out button
+ INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:61] - we got a page title
+ INFO [Stepdef.java:67] - quit browser
+ INFO [Stepdef.java:271] - driver closed
  INFO [Stepdef.java:44] - URL is Opened
  INFO [Stepdef.java:50] - username entered
  INFO [Stepdef.java:52] - Password entered
