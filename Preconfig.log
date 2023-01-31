@@ -327,3 +327,519 @@
  INFO [Stepdef.java:61] - we got a page title
  INFO [CloseStep.java:9] - close browser
  INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:61] - we got a page title
+ INFO [Stepdef.java:176] - Clicked on add vertical button
+ INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:74] - clicked on menu button
+ INFO [Stepdef.java:85] - checked function button
+ INFO [Stepdef.java:95] - checked node type button
+ INFO [Stepdef.java:105] - checked attribute button
+ INFO [Stepdef.java:119] - Checked metrics button
+ INFO [Stepdef.java:129] - Checked dictionary button
+ INFO [Stepdef.java:139] - checked Roles button
+ INFO [Stepdef.java:149] - checked oog management button
+ INFO [Stepdef.java:151] - check search placeholder
+ INFO [Stepdef.java:161] - Checked add vertical button
+ INFO [Stepdef.java:167] - Checked sign out button
+ INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:61] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:61] - we got a page title
+ INFO [Stepdef.java:176] - Clicked on add vertical button
+ INFO [Stepdef.java:185] - Clicked on vertical name
+ INFO [Stepdef.java:193] - Entered short name
+ INFO [Stepdef.java:195] - Entered description
+ INFO [Stepdef.java:202] - clicked on time range button
+ INFO [Stepdef.java:204] - Selected time range
+ INFO [Stepdef.java:212] - clicked on data range button
+ INFO [Stepdef.java:215] - selected data range
+ INFO [Stepdef.java:221] - clicked on trend range button
+ INFO [Stepdef.java:224] - selected trend range
+ INFO [Stepdef.java:230] - clicked on context range button
+ INFO [Stepdef.java:233] - selected context range
+ INFO [Stepdef.java:239] - clicked on contributor range button
+ INFO [Stepdef.java:242] - selected conttributor range
+ INFO [Stepdef.java:248] - clicked on recomended range button
+ INFO [Stepdef.java:251] - selected recomended range
+ INFO [Stepdef.java:257] - clicked on prediction range button
+ INFO [Stepdef.java:260] - selected prediction range
+ INFO [Stepdef.java:265] - clicked on save button
+ INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:74] - clicked on menu button
+ INFO [Stepdef.java:85] - checked function button
+ INFO [Stepdef.java:95] - checked node type button
+ INFO [Stepdef.java:105] - checked attribute button
+ INFO [Stepdef.java:119] - Checked metrics button
+ INFO [Stepdef.java:129] - Checked dictionary button
+ INFO [Stepdef.java:139] - checked Roles button
+ INFO [Stepdef.java:149] - checked oog management button
+ INFO [Stepdef.java:151] - check search placeholder
+ INFO [Stepdef.java:161] - Checked add vertical button
+ INFO [Stepdef.java:167] - Checked sign out button
+ INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:44] - URL is Opened
+ INFO [Stepdef.java:50] - username entered
+ INFO [Stepdef.java:52] - Password entered
+ INFO [Stepdef.java:54] - clicked on submit button
+ INFO [Stepdef.java:61] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:271] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:62] - we got a page title
+ INFO [Stepdef.java:177] - Clicked on add vertical button
+ INFO [Stepdef.java:186] - Clicked on vertical name
+ INFO [Stepdef.java:194] - Entered short name
+ INFO [Stepdef.java:196] - Entered description
+ INFO [Stepdef.java:203] - clicked on time range button
+ INFO [Stepdef.java:205] - Selected time range
+ INFO [Stepdef.java:213] - clicked on data range button
+ INFO [Stepdef.java:216] - selected data range
+ INFO [Stepdef.java:222] - clicked on trend range button
+ INFO [Stepdef.java:225] - selected trend range
+ INFO [Stepdef.java:231] - clicked on context range button
+ INFO [Stepdef.java:234] - selected context range
+ INFO [Stepdef.java:240] - clicked on contributor range button
+ INFO [Stepdef.java:243] - selected conttributor range
+ INFO [Stepdef.java:249] - clicked on recomended range button
+ INFO [Stepdef.java:252] - selected recomended range
+ INFO [Stepdef.java:258] - clicked on prediction range button
+ INFO [Stepdef.java:261] - selected prediction range
+ INFO [Stepdef.java:266] - clicked on save button
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:75] - clicked on menu button
+ INFO [Stepdef.java:86] - checked function button
+ INFO [Stepdef.java:96] - checked node type button
+ INFO [Stepdef.java:106] - checked attribute button
+ INFO [Stepdef.java:120] - Checked metrics button
+ INFO [Stepdef.java:130] - Checked dictionary button
+ INFO [Stepdef.java:140] - checked Roles button
+ INFO [Stepdef.java:150] - checked oog management button
+ INFO [Stepdef.java:152] - check search placeholder
+ INFO [Stepdef.java:162] - Checked add vertical button
+ INFO [Stepdef.java:168] - Checked sign out button
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:62] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:62] - we got a page title
+ INFO [Stepdef.java:177] - Clicked on add vertical button
+ INFO [Stepdef.java:186] - Clicked on vertical name
+ INFO [Stepdef.java:194] - Entered short name
+ INFO [Stepdef.java:196] - Entered description
+ INFO [Stepdef.java:203] - clicked on time range button
+ INFO [Stepdef.java:205] - Selected time range
+ INFO [Stepdef.java:213] - clicked on data range button
+ INFO [Stepdef.java:216] - selected data range
+ INFO [Stepdef.java:222] - clicked on trend range button
+ INFO [Stepdef.java:225] - selected trend range
+ INFO [Stepdef.java:231] - clicked on context range button
+ INFO [Stepdef.java:234] - selected context range
+ INFO [Stepdef.java:240] - clicked on contributor range button
+ INFO [Stepdef.java:243] - selected conttributor range
+ INFO [Stepdef.java:249] - clicked on recomended range button
+ INFO [Stepdef.java:252] - selected recomended range
+ INFO [Stepdef.java:258] - clicked on prediction range button
+ INFO [Stepdef.java:261] - selected prediction range
+ INFO [Stepdef.java:266] - clicked on save button
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:62] - we got a page title
+ INFO [Stepdef.java:177] - Clicked on add vertical button
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:62] - we got a page title
+ INFO [Stepdef.java:177] - Clicked on add vertical button
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:62] - we got a page title
+ INFO [Stepdef.java:177] - Clicked on add vertical button
+ INFO [Stepdef.java:186] - Clicked on vertical name
+ INFO [Stepdef.java:194] - Entered short name
+ INFO [Stepdef.java:196] - Entered description
+ INFO [Stepdef.java:203] - clicked on time range button
+ INFO [Stepdef.java:205] - Selected time range
+ INFO [Stepdef.java:213] - clicked on data range button
+ INFO [Stepdef.java:216] - selected data range
+ INFO [Stepdef.java:222] - clicked on trend range button
+ INFO [Stepdef.java:225] - selected trend range
+ INFO [Stepdef.java:231] - clicked on context range button
+ INFO [Stepdef.java:234] - selected context range
+ INFO [Stepdef.java:240] - clicked on contributor range button
+ INFO [Stepdef.java:243] - selected conttributor range
+ INFO [Stepdef.java:249] - clicked on recomended range button
+ INFO [Stepdef.java:252] - selected recomended range
+ INFO [Stepdef.java:258] - clicked on prediction range button
+ INFO [Stepdef.java:261] - selected prediction range
+ INFO [Stepdef.java:266] - clicked on save button
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:62] - we got a page title
+ INFO [Stepdef.java:177] - Clicked on add vertical button
+ INFO [Stepdef.java:186] - Clicked on vertical name
+ INFO [Stepdef.java:194] - Entered short name
+ INFO [Stepdef.java:196] - Entered description
+ INFO [Stepdef.java:203] - clicked on time range button
+ INFO [Stepdef.java:205] - Selected time range
+ INFO [Stepdef.java:213] - clicked on data range button
+ INFO [Stepdef.java:216] - selected data range
+ INFO [Stepdef.java:222] - clicked on trend range button
+ INFO [Stepdef.java:225] - selected trend range
+ INFO [Stepdef.java:231] - clicked on context range button
+ INFO [Stepdef.java:234] - selected context range
+ INFO [Stepdef.java:240] - clicked on contributor range button
+ INFO [Stepdef.java:243] - selected conttributor range
+ INFO [Stepdef.java:249] - clicked on recomended range button
+ INFO [Stepdef.java:252] - selected recomended range
+ INFO [Stepdef.java:258] - clicked on prediction range button
+ INFO [Stepdef.java:261] - selected prediction range
+ INFO [Stepdef.java:266] - clicked on save button
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:45] - URL is Opened
+ INFO [Stepdef.java:51] - username entered
+ INFO [Stepdef.java:53] - Password entered
+ INFO [Stepdef.java:55] - clicked on submit button
+ INFO [Stepdef.java:62] - we got a page title
+ INFO [Stepdef.java:177] - Clicked on add vertical button
+ INFO [Stepdef.java:273] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [Stepdef.java:185] - Clicked on add vertical button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [Stepdef.java:185] - Clicked on add vertical button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:194] - Clicked on vertical name
+ INFO [Stepdef.java:202] - Entered short name
+ INFO [Stepdef.java:204] - Entered description
+ INFO [Stepdef.java:83] - clicked on menu button
+ INFO [Stepdef.java:211] - clicked on time range button
+ INFO [Stepdef.java:213] - Selected time range
+ INFO [Stepdef.java:94] - checked function button
+ INFO [Stepdef.java:104] - checked node type button
+ INFO [Stepdef.java:114] - checked attribute button
+ INFO [Stepdef.java:128] - Checked metrics button
+ INFO [Stepdef.java:138] - Checked dictionary button
+ INFO [Stepdef.java:148] - checked Roles button
+ INFO [Stepdef.java:158] - checked oog management button
+ INFO [Stepdef.java:160] - check search placeholder
+ INFO [Stepdef.java:170] - Checked add vertical button
+ INFO [Stepdef.java:176] - Checked sign out button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:221] - clicked on data range button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:224] - selected data range
+ INFO [Stepdef.java:230] - clicked on trend range button
+ INFO [Stepdef.java:233] - selected trend range
+ INFO [Stepdef.java:239] - clicked on context range button
+ INFO [Stepdef.java:242] - selected context range
+ INFO [Stepdef.java:248] - clicked on contributor range button
+ INFO [Stepdef.java:251] - selected conttributor range
+ INFO [Stepdef.java:257] - clicked on recomended range button
+ INFO [Stepdef.java:260] - selected recomended range
+ INFO [Stepdef.java:266] - clicked on prediction range button
+ INFO [Stepdef.java:269] - selected prediction range
+ INFO [Stepdef.java:274] - clicked on save button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:83] - clicked on menu button
+ INFO [Stepdef.java:94] - checked function button
+ INFO [Stepdef.java:104] - checked node type button
+ INFO [Stepdef.java:114] - checked attribute button
+ INFO [Stepdef.java:128] - Checked metrics button
+ INFO [Stepdef.java:138] - Checked dictionary button
+ INFO [Stepdef.java:148] - checked Roles button
+ INFO [Stepdef.java:158] - checked oog management button
+ INFO [Stepdef.java:160] - check search placeholder
+ INFO [Stepdef.java:170] - Checked add vertical button
+ INFO [Stepdef.java:176] - Checked sign out button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [Stepdef.java:185] - Clicked on add vertical button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:83] - clicked on menu button
+ INFO [Stepdef.java:94] - checked function button
+ INFO [Stepdef.java:104] - checked node type button
+ INFO [Stepdef.java:114] - checked attribute button
+ INFO [Stepdef.java:128] - Checked metrics button
+ INFO [Stepdef.java:138] - Checked dictionary button
+ INFO [Stepdef.java:148] - checked Roles button
+ INFO [Stepdef.java:158] - checked oog management button
+ INFO [Stepdef.java:160] - check search placeholder
+ INFO [Stepdef.java:170] - Checked add vertical button
+ INFO [Stepdef.java:176] - Checked sign out button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [Stepdef.java:185] - Clicked on add vertical button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:83] - clicked on menu button
+ INFO [Stepdef.java:94] - checked function button
+ INFO [Stepdef.java:104] - checked node type button
+ INFO [Stepdef.java:114] - checked attribute button
+ INFO [Stepdef.java:128] - Checked metrics button
+ INFO [Stepdef.java:138] - Checked dictionary button
+ INFO [Stepdef.java:148] - checked Roles button
+ INFO [Stepdef.java:158] - checked oog management button
+ INFO [Stepdef.java:160] - check search placeholder
+ INFO [Stepdef.java:170] - Checked add vertical button
+ INFO [Stepdef.java:176] - Checked sign out button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [Stepdef.java:185] - Clicked on add vertical button
+ INFO [Stepdef.java:194] - Clicked on vertical name
+ INFO [Stepdef.java:202] - Entered short name
+ INFO [Stepdef.java:204] - Entered description
+ INFO [Stepdef.java:211] - clicked on time range button
+ INFO [Stepdef.java:213] - Selected time range
+ INFO [Stepdef.java:221] - clicked on data range button
+ INFO [Stepdef.java:224] - selected data range
+ INFO [Stepdef.java:230] - clicked on trend range button
+ INFO [Stepdef.java:233] - selected trend range
+ INFO [Stepdef.java:239] - clicked on context range button
+ INFO [Stepdef.java:242] - selected context range
+ INFO [Stepdef.java:248] - clicked on contributor range button
+ INFO [Stepdef.java:251] - selected conttributor range
+ INFO [Stepdef.java:257] - clicked on recomended range button
+ INFO [Stepdef.java:260] - selected recomended range
+ INFO [Stepdef.java:266] - clicked on prediction range button
+ INFO [Stepdef.java:269] - selected prediction range
+ INFO [Stepdef.java:274] - clicked on save button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:83] - clicked on menu button
+ INFO [Stepdef.java:94] - checked function button
+ INFO [Stepdef.java:104] - checked node type button
+ INFO [Stepdef.java:114] - checked attribute button
+ INFO [Stepdef.java:128] - Checked metrics button
+ INFO [Stepdef.java:138] - Checked dictionary button
+ INFO [Stepdef.java:148] - checked Roles button
+ INFO [Stepdef.java:158] - checked oog management button
+ INFO [Stepdef.java:160] - check search placeholder
+ INFO [Stepdef.java:170] - Checked add vertical button
+ INFO [Stepdef.java:176] - Checked sign out button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [Stepdef.java:185] - Clicked on add vertical button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:83] - clicked on menu button
+ INFO [Stepdef.java:94] - checked function button
+ INFO [Stepdef.java:104] - checked node type button
+ INFO [Stepdef.java:114] - checked attribute button
+ INFO [Stepdef.java:128] - Checked metrics button
+ INFO [Stepdef.java:138] - Checked dictionary button
+ INFO [Stepdef.java:148] - checked Roles button
+ INFO [Stepdef.java:158] - checked oog management button
+ INFO [Stepdef.java:160] - check search placeholder
+ INFO [Stepdef.java:170] - Checked add vertical button
+ INFO [Stepdef.java:176] - Checked sign out button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [Stepdef.java:185] - Clicked on add vertical button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:83] - clicked on menu button
+ INFO [Stepdef.java:94] - checked function button
+ INFO [Stepdef.java:104] - checked node type button
+ INFO [Stepdef.java:114] - checked attribute button
+ INFO [Stepdef.java:128] - Checked metrics button
+ INFO [Stepdef.java:138] - Checked dictionary button
+ INFO [Stepdef.java:148] - checked Roles button
+ INFO [Stepdef.java:158] - checked oog management button
+ INFO [Stepdef.java:160] - check search placeholder
+ INFO [Stepdef.java:170] - Checked add vertical button
+ INFO [Stepdef.java:176] - Checked sign out button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [Stepdef.java:185] - Clicked on add vertical button
+ INFO [Stepdef.java:194] - Clicked on vertical name
+ INFO [Stepdef.java:202] - Entered short name
+ INFO [Stepdef.java:204] - Entered description
+ INFO [Stepdef.java:211] - clicked on time range button
+ INFO [Stepdef.java:213] - Selected time range
+ INFO [Stepdef.java:221] - clicked on data range button
+ INFO [Stepdef.java:224] - selected data range
+ INFO [Stepdef.java:230] - clicked on trend range button
+ INFO [Stepdef.java:233] - selected trend range
+ INFO [Stepdef.java:239] - clicked on context range button
+ INFO [Stepdef.java:242] - selected context range
+ INFO [Stepdef.java:248] - clicked on contributor range button
+ INFO [Stepdef.java:251] - selected conttributor range
+ INFO [Stepdef.java:257] - clicked on recomended range button
+ INFO [Stepdef.java:260] - selected recomended range
+ INFO [Stepdef.java:266] - clicked on prediction range button
+ INFO [Stepdef.java:269] - selected prediction range
+ INFO [Stepdef.java:274] - clicked on save button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:83] - clicked on menu button
+ INFO [Stepdef.java:94] - checked function button
+ INFO [Stepdef.java:104] - checked node type button
+ INFO [Stepdef.java:114] - checked attribute button
+ INFO [Stepdef.java:128] - Checked metrics button
+ INFO [Stepdef.java:138] - Checked dictionary button
+ INFO [Stepdef.java:148] - checked Roles button
+ INFO [Stepdef.java:158] - checked oog management button
+ INFO [Stepdef.java:160] - check search placeholder
+ INFO [Stepdef.java:170] - Checked add vertical button
+ INFO [Stepdef.java:176] - Checked sign out button
+ INFO [Stepdef.java:281] - driver closed
+ INFO [Stepdef.java:53] - URL is Opened
+ INFO [Stepdef.java:59] - username entered
+ INFO [Stepdef.java:61] - Password entered
+ INFO [Stepdef.java:63] - clicked on submit button
+ INFO [Stepdef.java:70] - we got a page title
+ INFO [CloseStep.java:9] - close browser
+ INFO [Stepdef.java:281] - driver closed

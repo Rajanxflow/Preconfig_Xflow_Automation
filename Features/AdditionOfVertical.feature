@@ -1,4 +1,5 @@
 Feature: Login
+@sanity
 Scenario: login with valid credential
 Given user launch chrome browser
 When user open URL "https://preconfig-a13.expflow.in/auth/sign-in"
