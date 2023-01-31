@@ -1,6 +1,6 @@
-Feature: Login
+Feature: Addition of vertical
 @sanity
-Scenario: login with valid credential
+Scenario: steps for adding verticals
 Given user launch chrome browser
 When user open URL "https://preconfig-a13.expflow.in/auth/sign-in"
 And setUsername as "onboarding@xflow.com" setPassword "xFlow@321" And click on submit button
